@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/background05.jpg</file>
+        <file>img/bottomBar.jpg</file>
+        <file>img/Img1.jpg</file>
+        <file>img/Img2.jpg</file>
+        <file>Slider.qml</file>
+    </qresource>
+</RCC>
